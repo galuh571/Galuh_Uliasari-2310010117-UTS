@@ -1,0 +1,2 @@
+2025-11-15 | gaji bulan november | 1000000.0 | Pemasukan
+2025-11-15 | gaji  desember | 2000000.0 | Pemasukan
